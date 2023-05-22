@@ -26,7 +26,7 @@
         </nav>
 
 
-        <h1>Pagina de Registro de Música</h1>
+        <h1>Pagina de Registro de Instrumento musical</h1>
         <div class="container">
             <form action="<%= request.getContextPath() %>/MusicaServlet?action=create" method="POST">
 
